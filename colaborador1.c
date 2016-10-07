@@ -1,8 +1,8 @@
 #include <string.h>
-#include "colaborador1.h"
+#include "colaboradores.h"
 
 void colaborador1(char* dados, char* oquefaz)
 {
-    strcpy(oquefaz, "limpa");
+    strcpy(oquefaz, "Remove Acentuacao");
     strcpy(dados, "");
 }

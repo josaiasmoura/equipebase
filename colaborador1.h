@@ -1,1 +1,0 @@
-void colaborador1(char* dados, char* oquefaz);
